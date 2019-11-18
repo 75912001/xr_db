@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<root>
+<!--
+		uint32_t	id;
+		char		name[32];
+		char		ip[16];
+		uint16_t	port;
+		char		data[32];
+-->
+	<server id="1" name="xr_db" ip="127.0.0.1" port="61101"  data=""/>
+	<server id="2" name="xr_db" ip="127.0.0.1" port="61102"  data=""/>
+	<server id="3" name="xr_db" ip="127.0.0.1" port="61109"  data=""/>
+</root>
